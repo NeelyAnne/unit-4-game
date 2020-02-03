@@ -22,3 +22,7 @@ The random number shown at the start of the game should be between 19 - 120. Eac
 - HTML
 - CSS
 - Javascript
+
+## **Screenshots:**
+
+![Front](/images/front.png)
